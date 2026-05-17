@@ -1,0 +1,7 @@
+the follwoing python libraries are required to be installed:
+
+numpy
+pandas
+matplotlib
+statsmodels
+yfinance
