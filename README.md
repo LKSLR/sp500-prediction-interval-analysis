@@ -2,10 +2,9 @@
 OLS regression 2015-2021 and prediction interval analysis for 2023 of the iShares Core S&amp;P500 ETF using Python.
 
 
+### Objectives
 
-# Objectives
-
-#The purpose of this project is to explore how statistical methods can be used to estimate future market #developments while also demonstrating their limitations.
+The purpose of this project is to explore how statistical methods can be used to estimate future market developments while also demonstrating their limitations.
 
 # Method
 
